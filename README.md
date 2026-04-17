@@ -22,7 +22,7 @@ Offline-first Mesh Operating System for field communication.
 
 Download latest release:
 
-👉 https://github.com/YOUR_REPO/releases
+👉 https://github.com/studioetrange-ux/releases
 
 Flash with Raspberry Pi Imager.
 
